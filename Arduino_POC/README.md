@@ -5,7 +5,12 @@ proven.
 
 ## HM_10_SD_RTC_ultrasonic
 
+[wiring]: wiring_diagram.jpg "wiring_diagram.jpg"
+
+![alt text][wiring]
+
 Setup procedure. Take a look at the readme in the folder, essentially:
+
 - Install D3231.zip as a library in Arduino INO
 - Install Time library using Arduino INO library manager
 - Set up modules and UNO according to circuit diagram provide, or look at code comments for pin out
